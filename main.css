@@ -31,7 +31,6 @@ body {
   background-color: lightgreen;
   grid-column: span 3;
   text-align: right;
-  justify-content: center;
   font-size: 50px;
 }
  
